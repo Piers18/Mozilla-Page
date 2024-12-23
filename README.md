@@ -1,3 +1,3 @@
 # Mozilla-Page
 
-Pagina basada en la documentacion
+#Pagina basada en la documentacion
